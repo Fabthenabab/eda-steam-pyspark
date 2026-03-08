@@ -92,7 +92,7 @@ Comprehensive missing value analysis (null and empty strings), nested JSON struc
 - Genre popularity, sentiment, and price positioning
 - Cross-platform availability analysis
 
-**[01_eda.html](https://fabthenabab.github.io/eda-steam/01_eda.html)** — Full notebook export with Databricks visualizations
+**[01_eda.html](https://fabthenabab.github.io/eda-steam/docs/01_eda.html)** — Full notebook export with Databricks visualizations
 
 [⬆ Back to top](#-table-of-contents)
 
