@@ -1,4 +1,4 @@
-<img src="assets/img/Steam_Logo.png" alt="Steam Logo" width="300"/>
+<img src="assets/Steam_Logo.png" alt="Steam Logo" width="300"/>
 
 > **Exploratory data analysis of the Steam's videogames platform's Catalog Dataset.**  
 > Analysis of the market on different levels: macro, genres, platform. The analysis is conducted with pyspark using Databricks platform.
